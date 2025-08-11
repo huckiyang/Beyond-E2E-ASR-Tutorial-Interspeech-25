@@ -34,6 +34,12 @@ This tutorial introduces **long-context acoustic & linguistic modeling** to make
 | **Speech-LLM Integration** | Merging ASR with large language models |
 | **RAG-Based Repair** | Retrieval-augmented transcription correction |
 
+###  References
+
+| Title | Link |
+|-------|-------------|
+| Discrete Audio Tokens: More Than a Survey! | [Retrieval-augmented transcription correction](https://arxiv.org/pdf/2506.10274) |
+
 ---
 
 ## 📊 Benchmarks & Datasets  
