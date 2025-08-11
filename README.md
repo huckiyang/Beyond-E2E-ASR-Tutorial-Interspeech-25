@@ -1,6 +1,3 @@
-# Beyond-E2E-ASR-Tutorial-Interspeech-25
-CMU Wav Lab, Oracle, NVIDIA
-
 # 📜 Beyond End-to-End ASR: Integrating Long-Context Acoustic and Linguistic Insights  
 
 [![Conference](https://img.shields.io/badge/Event-ICASSP_2025-blue)](https://2025.ieeeicassp.org/)
