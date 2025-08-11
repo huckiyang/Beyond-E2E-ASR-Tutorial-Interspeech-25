@@ -38,7 +38,7 @@ This tutorial introduces **long-context acoustic & linguistic modeling** to make
 
 | Title | Link |
 |-------|-------------|
-| Discrete Audio Tokens: More Than a Survey! | [Retrieval-augmented transcription correction](https://arxiv.org/pdf/2506.10274) |
+| Discrete Audio Tokens: More Than a Survey! | [Arxiv](https://arxiv.org/pdf/2506.10274) |
 
 ---
 
