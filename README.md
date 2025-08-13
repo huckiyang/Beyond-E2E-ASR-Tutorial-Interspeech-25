@@ -77,11 +77,11 @@ Long-context ASR enables:
 
 ### **Taejin Park** — *Senior Research Scientist, NVIDIA*  
 Deep learning for speech processing, context-aware diarization, multi-speaker ASR.  
-Ph.D. USC, former researcher at ETRI, internships at Microsoft, Amazon Alexa, Capio Inc.  
+Ph.D. USC, former researcher at ETRI.
 
 ### **Huck Yang** — *Senior Research Scientist, NVIDIA*  
 Speech-language modeling, robust ASR, multi-modal alignment.  
-Ph.D. Georgia Tech, area chair for ICASSP, EMNLP, SLT, NAACL.  
+Ph.D. Georgia Tech, area chair for ICASSP, EMNLP, SLT, NAACL. ISCA Interspeech Best Paper Nominee (2023) and ACL Best Industry Paper Honorable Mentioned (2024).
 
 ### **Kyu Han** — *Senior Director, Oracle Cloud Infrastructure*  
 Speech & language tech leader at AWS, IBM, Ford, Capio.ai, JD.com, ASAPP.  
@@ -89,7 +89,7 @@ ISCA Best Paper Award (2018). IEEE SPS Technical Committee member.
 
 ### **Shinji Watanabe** — *Associate Professor, CMU*  
 ASR, speech enhancement, SLU, ML for speech.  
-500+ papers, IEEE & ISCA Fellow, ISCA Interspeech Best Paper Award (2024).  
+IEEE & ISCA Fellow, ISCA Interspeech Best Paper Award (2024).  
 
 ---
 
