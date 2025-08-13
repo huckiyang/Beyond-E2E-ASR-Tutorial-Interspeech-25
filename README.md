@@ -9,20 +9,7 @@
 
 <p align="center">  <img src="https://github.com/huckiyang/Beyond-E2E-ASR-Tutorial-Interspeech-25/blob/main/interspeech.png" height ="250"> </p>
 
----
 
-## 📌 Overview  
-
-Modern **automatic speech recognition (ASR)** excels in *data-rich* languages like English — yet often fails for **low-resource languages**, **accents**, **multi-speaker conversations**, or **long-context scenarios**.  
-
-This tutorial introduces **long-context acoustic & linguistic modeling** to make ASR **fairer, more inclusive, and more robust**.  
-
-**You will learn:**
-- ✅ How to evaluate **long-form ASR** with realistic benchmarks  
-- ✅ Acoustic & semantic **context modeling techniques**  
-- ✅ **Multi-speaker processing** & **speech-LLM integration**  
-- ✅ **RAG-based error correction** for transcription  
-- ✅ Benchmarks for noisy, multilingual, and extended-speech scenarios  
 
 ---
 
@@ -43,6 +30,19 @@ This tutorial introduces **long-context acoustic & linguistic modeling** to make
 | Discrete Audio Tokens: More Than a Survey! | [Arxiv](https://arxiv.org/pdf/2506.10274) |
 
 ---
+
+## 📌 Overview  
+
+Modern **automatic speech recognition (ASR)** excels in *data-rich* languages like English — yet often fails for **low-resource languages**, **accents**, **multi-speaker conversations**, or **long-context scenarios**.  
+
+This tutorial introduces **long-context acoustic & linguistic modeling** to make ASR **fairer, more inclusive, and more robust**.  
+
+**You will learn:**
+- ✅ How to evaluate **long-form ASR** with realistic benchmarks  
+- ✅ Acoustic & semantic **context modeling techniques**  
+- ✅ **Multi-speaker processing** & **speech-LLM integration**  
+- ✅ **RAG-based error correction** for transcription  
+- ✅ Benchmarks for noisy, multilingual, and extended-speech scenarios  
 
 ## 📊 Benchmarks & Datasets  
 
