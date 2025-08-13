@@ -1,6 +1,6 @@
 # 📜 Beyond End-to-End ASR: Integrating Long-Context Acoustic and Linguistic Insights  
 
-[![Conference](https://img.shields.io/badge/Event-ICASSP_2025-blue)](https://2025.ieeeicassp.org/)
+[![Conference](https://img.shields.io/badge/Event-Interspeech-blue)](https://2025.ieeeicassp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](link-to-paper.pdf)
 [![Slides](https://img.shields.io/badge/Slides-Available-orange)](link-to-slides.pdf)
