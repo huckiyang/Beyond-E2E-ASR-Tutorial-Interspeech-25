@@ -83,7 +83,7 @@ Ph.D. USC, former researcher at ETRI.
 
 ### **Huck Yang** — *Senior Research Scientist, NVIDIA*  
 Speech-language modeling, robust ASR, multi-modal alignment.  
-Ph.D. Georgia Tech, area chair for ICASSP, EMNLP, SLT, NAACL. ISCA Interspeech Best Paper Nominee (2023) and ACL Best Industry Paper Honorable Mentioned (2024).
+Ph.D. Georgia Tech, area chair for ICASSP, EMNLP; ACL. ISCA Interspeech Best Paper Nominee (2023) and ACL Best Industry Paper Honorable Mentioned (2024).
 
 ### **Kyu Han** — *Senior Director, Oracle Cloud Infrastructure*  
 Speech & language tech leader at AWS, IBM, Ford, Capio.ai, JD.com, ASAPP.  
@@ -118,7 +118,7 @@ IEEE & ISCA Fellow, ISCA Interspeech Best Paper Award (2024).
 
 ---
 
-> 💡 **Key Takeaway:** Integrating *long-context acoustic modeling*, *linguistic understanding*, and *LLM reasoning* moves ASR **beyond transcription** toward **inclusive, fair, and context-aware speech technologies**.
+> 💡 **Key Takeaway:** Integrating *long-context acoustic modeling*, *linguistic understanding*, and *LLM reasoning* moves ASR **beyond transcription** toward **inclusive, robust, and context-aware speech technologies**.
 
 
 
