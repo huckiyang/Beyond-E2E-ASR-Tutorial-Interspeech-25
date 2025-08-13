@@ -28,7 +28,10 @@
 | Title | Link |
 |-------|-------------|
 | Discrete Audio Tokens: More Than a Survey! | [Arxiv](https://arxiv.org/pdf/2506.10274) |
-
+|-------|-------------|
+| Contextualized Streaming End-to-End Speech Recognition with
+Trie-Based Deep Biasing and Shallow Fusion | [Arxiv](https://arxiv.org/pdf/2104.02194) |
+|-------|-------------|
 ---
 
 ## 📌 Overview  
