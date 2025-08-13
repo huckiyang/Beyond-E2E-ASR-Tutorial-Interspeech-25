@@ -5,7 +5,7 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](link-to-paper.pdf)
 [![Slides](https://img.shields.io/badge/Slides-Available-orange)](link-to-slides.pdf)
 
-- **Shinji Watanabe** (CMU)· **Taejin Park** (NVIDIA NeMo) · **Huck Yang** (NVIDIA Research) · **Kyu Han** (Oracle)  
+- **Shinji Watanabe** (CMU)· **Taejin Park** (NVIDIA) · **Huck Yang** (NVIDIA) · **Kyu J. Han** (Oracle)  
 
 ---
 
