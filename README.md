@@ -7,6 +7,8 @@
 
 - **Shinji Watanabe** (CMU)· **Taejin Park** (NVIDIA) · **Huck Yang** (NVIDIA) · **Kyu J. Han** (Oracle)  
 
+<p align="center">  <img src="https://github.com/Srijith-rkr/Whispering-LLaMA/blob/main/images/whispering-llama.png" height ="250"> </p>
+
 ---
 
 ## 📌 Overview  
