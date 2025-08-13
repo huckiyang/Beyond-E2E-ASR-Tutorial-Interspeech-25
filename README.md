@@ -17,7 +17,7 @@
 
 | Theme | Description |
 |-------|-------------|
-| **Fairness & Inclusivity** | Tackling ASR bias in underrepresented communities |
+| **Current ASR Status** | Tackling ASR status in generative AI |
 | **Long-Context Processing** | Retaining acoustic & linguistic cues over extended speech |
 | **Multi-Speaker & Diarization** | Handling overlapping and multi-talker audio |
 | **Speech-LLM Integration** | Merging ASR with large language models |
