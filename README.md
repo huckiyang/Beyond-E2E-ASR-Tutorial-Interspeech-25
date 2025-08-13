@@ -28,6 +28,7 @@
 | Title | Link |
 |-------|-------------|
 | Discrete Audio Tokens: More Than a Survey! | [Arxiv](https://arxiv.org/pdf/2506.10274) |
+| Acoustic Context Switching Evaluation Dataset | [HuggingFace Dataset]([HuggingFace: Acoustic Context Switching Dataset](https://huggingface.co/datasets/taejinp/acoustic_context_switching)) |
 |-------|-------------|
 | Contextualized Streaming End-to-End Speech Recognition with
 Trie-Based Deep Biasing and Shallow Fusion | [Arxiv](https://arxiv.org/pdf/2104.02194) |
@@ -113,7 +114,8 @@ IEEE & ISCA Fellow, ISCA Interspeech Best Paper Award (2024).
 
 ## 📚 Resources  
 
-- [CHiME Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)  
+- [CHiME Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)
+- [HuggingFace: Acoustic Context Switching Dataset](https://huggingface.co/datasets/taejinp/acoustic_context_switching)
 - LibriHeavy Dataset  
 - SLUE Benchmark  
 - Speech QA Dataset  
