@@ -1,129 +1,29 @@
 # 📜 Beyond End-to-End ASR: Integrating Long-Context Acoustic and Linguistic Insights  
 
-[![Conference](https://img.shields.io/badge/Tutorial-Interspeech-blue)](https://2025.ieeeicassp.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](link-to-paper.pdf)
-[![Slides](https://img.shields.io/badge/Slides-Available-orange)](link-to-slides.pdf)
-
 - **Shinji Watanabe** (CMU)· **Taejin Park** (NVIDIA) · **Huck Yang** (NVIDIA) · **Kyu J. Han** (Oracle)  
 
-<p align="center">  <img src="https://github.com/huckiyang/Beyond-E2E-ASR-Tutorial-Interspeech-25/blob/main/interspeech.png" height ="250"> </p>
-
 
 
 ---
 
-## 🧠 Key Topics  
+## Time Table
 
-| Theme | Description |
-|-------|-------------|
-| **Current ASR Status** | Tackling ASR status in generative AI |
-| **Long-Context Processing** | Retaining acoustic & linguistic cues over extended speech |
-| **Multi-Speaker & Diarization** | Handling overlapping and multi-talker audio |
-| **Speech-LLM Integration** | Merging ASR with large language models |
-| **RAG-Based Repair** | Retrieval-augmented transcription correction |
 
-###  References
-
+##  References
 | Title | Link |
 |-------|-------------|
-| Discrete Audio Tokens: More Than a Survey! | [Arxiv](https://arxiv.org/pdf/2506.10274) |
 | Acoustic Context Switching Evaluation Dataset | [HuggingFace Dataset]([HuggingFace: Acoustic Context Switching Dataset](https://huggingface.co/datasets/taejinp/acoustic_context_switching)) |
-|-------|-------------|
-| Contextualized Streaming End-to-End Speech Recognition with
-Trie-Based Deep Biasing and Shallow Fusion | [Arxiv](https://arxiv.org/pdf/2104.02194) |
-|-------|-------------|
----
 
-## 📌 Overview  
 
-Modern **automatic speech recognition (ASR)** excels in *data-rich* languages like English — yet often fails for **low-resource languages**, **accents**, **multi-speaker conversations**, or **long-context scenarios**.  
-
-This tutorial introduces **long-context acoustic & linguistic modeling** to make ASR **fairer, more inclusive, and more robust**.  
-
-**You will learn:**
-- ✅ How to evaluate **long-form ASR** with realistic benchmarks  
-- ✅ Acoustic & semantic **context modeling techniques**  
-- ✅ **Multi-speaker processing** & **speech-LLM integration**  
-- ✅ **RAG-based error correction** for transcription  
-- ✅ Benchmarks for noisy, multilingual, and extended-speech scenarios  
-
-## 📊 Benchmarks & Datasets  
-
-We evaluate using:  
-
-- **CHiME** – Real-world noisy speech  
-- **LibriHeavy** – Long-form audiobook speech  
-- **SLUE** – Spoken language understanding evaluation  
-- **Speech QA** – Spoken question answering  
-- **Dynamic SUPERB** – Comprehensive speech benchmark with long-context tests  
-
----
-
-## 🛠 Evaluation Metrics  
-
-- 🎯 **Multi-talker diarization** – Who spoke when  
-- 🧩 **Semantic evaluation** – Capturing meaning beyond words  
-- 📚 **RAG-based repair** – Retrieval-based error fixing  
-- 🗣 **Speaker variability resilience** – Accents, dialects, and code-switching  
-
----
-
-## 🔍 Why Long-Context ASR?  
-
-Long-context ASR enables:  
-- 🗨 **Conversation tracking** over extended dialogues  
-- 🌏 **Low-resource language** support  
-- 🔄 **Code-switching** handling  
-- 🤝 **Accessibility** for marginalized communities  
-
----
-
-## 👩‍🔬 Organizers  
-
-### **Taejin Park** — *Senior Research Scientist, NVIDIA*  
-Deep learning for speech processing, context-aware diarization, multi-speaker ASR.  
-Ph.D. USC, former researcher at ETRI.
-
-### **Huck Yang** — *Senior Research Scientist, NVIDIA*  
-Speech-language modeling, robust ASR, multi-modal alignment.  
-Ph.D. Georgia Tech, area chair for ICASSP, EMNLP; ACL. ISCA Interspeech Best Paper Nominee (2023) and ACL Best Industry Paper Honorable Mentioned (2024).
-
-### **Kyu Han** — *Senior Director, Oracle Cloud Infrastructure*  
-Speech & language tech leader at AWS, IBM, Ford, Capio.ai, JD.com, ASAPP.  
-ISCA Best Paper Award (2018). IEEE SPS Technical Committee member.  
-
-### **Shinji Watanabe** — *Associate Professor, CMU*  
-ASR, speech enhancement, SLU, ML for speech.  
-IEEE & ISCA Fellow, ISCA Interspeech Best Paper Award (2024).  
-
----
-
-## 📅 Tutorial Schedule  
-
-1. **Introduction to Long-Context ASR Challenges**  
-2. **Datasets & Benchmarks**  
-3. **Acoustic Context Modeling**  
-4. **Linguistic & Semantic Context Modeling**  
-5. **Multi-Speaker Processing & Diarization**  
-6. **Speech-LLM Integration**  
-7. **RAG-based Error Correction**  
-8. **Future Directions for Fair & Inclusive ASR**  
-
----
-
-## 📚 Resources  
-
-- [CHiME Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)
-- [HuggingFace: Acoustic Context Switching Dataset](https://huggingface.co/datasets/taejinp/acoustic_context_switching)
-- LibriHeavy Dataset  
-- SLUE Benchmark  
-- Speech QA Dataset  
-- Dynamic SUPERB Benchmark  
-
----
-
-> 💡 **Key Takeaway:** Integrating *long-context acoustic modeling*, *linguistic understanding*, and *LLM reasoning* moves ASR **beyond transcription** toward **inclusive, robust, and context-aware speech technologies**.
-
+| Time         | Duration | Speaker | Topic                                                                                      |
+|--------------|----------|---------|--------------------------------------------------------------------------------------------|
+| 15:30-15:40  | 10 min   | Shinji  | Introduction                                                                               |
+| 15:40-16:10  | 30 min   | Shinji  | Speech-to-Text Benchmark                                                                   |
+| 16:10-16:50  | 40 min   | Taejin  | Leveraging Long Acoustic Context                                                           |
+| 16:50-17:00  | 10 min   | —       | Recess                                                                                     |
+| 17:00-17:40  | 40 min   | Huck    | Semantic Context and Speech-Language Modeling                                              |
+| 17:40-18:10  | 30 min   | Kyu     | Contextual Biasing and Methods Leveraging Longer Semantic Context for Speech Systems       |
+| 18:10-18:20  | 10 min   | Kyu     | Closing Remark                                                                             |
+| 18:20-18:30  | 10 min   | —       | Q&A Session                                                                                |
 
 
