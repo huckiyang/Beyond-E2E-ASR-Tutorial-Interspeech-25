@@ -6,14 +6,11 @@
 
 ---
 
-## Time Table
-
-
-##  References
-| Title | Link |
-|-------|-------------|
-| Acoustic Context Switching Evaluation Dataset | [HuggingFace Dataset]([HuggingFace: Acoustic Context Switching Dataset](https://huggingface.co/datasets/taejinp/acoustic_context_switching)) |
-
+## Tutorial Time Table:
+Aug 17th 2025
+The Rotterdam Ahoy Convention Centre
+Room: Dock 1B 
+Session 15:30 to 18:30
 
 | Time         | Duration | Speaker | Topic                                                                                      |
 |--------------|----------|---------|--------------------------------------------------------------------------------------------|
@@ -25,5 +22,13 @@
 | 17:40-18:10  | 30 min   | Kyu     | Contextual Biasing and Methods Leveraging Longer Semantic Context for Speech Systems       |
 | 18:10-18:20  | 10 min   | Kyu     | Closing Remark                                                                             |
 | 18:20-18:30  | 10 min   | —       | Q&A Session                                                                                |
+
+
+
+##  References
+| Title | Link |
+|-------|-------------|
+| Acoustic Context Switching Evaluation Dataset | [HuggingFace Dataset]([HuggingFace: Acoustic Context Switching Dataset](https://huggingface.co/datasets/taejinp/acoustic_context_switching)) |
+
 
 
